@@ -10,7 +10,7 @@ A curated and practical collection of training examples, tools, and ROCm optimiz
 | PointPillars     | Point Cloud      |  | ✅ Supported   | Need ROCm mmcv to get better performance          |
 | MapTR            | Vector Prediction|  | ✅ Supported |  |
 | FlashOcc         | Scene Occupancy  |  | ✅ Supported |         |
-| Sparse4D         | Sparse Detector  |  | ✅ Supported | |
+| Sparse4D         | Sparse Detector  | https://github.com/binding7012/Sparse4D | ✅ Supported | |
 | BEVFormer        | Multi-view       |  | ✅ Supported  |        |
 
 See full list in [registry/MODELS.md](registry/MODELS.md)
