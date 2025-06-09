@@ -8,10 +8,12 @@ A curated and practical collection of training examples, tools, and ROCm optimiz
 | ResNet-50        | Backbone         | https://github.com/amd-fuweiy/vision | [example/backbone](examples/backbone/readme.md)   |    |
 | EfficientNet-B7  | Backbone         | https://github.com/amd-fuweiy/vision |    | Currently have performance issue with DWConv    |
 | PointPillars     | Point Cloud      |  |    | Need ROCm mmcv to get better performance          |
-| MapTR            | Vector Prediction|  |  |  |
+| MapTR            | Vector Prediction| https://github.com/aaab8b/MapTR | See modified Readme in git |  |
 | FlashOcc         | Scene Occupancy  | https://github.com/mingjielu/FlashOCC | [examples/occupancy/FlashOCC](examples/occupancy/FlashOCC) |         |
 | Sparse4D         | Sparse Detector  | https://github.com/binding7012/Sparse4D |[examples/detection/sparse4d](examples/detection/sparse4d) | |
 | BEVFormer        | Multi-view       |  |  |        |
+| PETR            | 3D Detection | https://github.com/aaab8b/PETR | See modified Readme in git |  |
+| QCNet            | Trajectory Prediction | https://github.com/aaab8b/QCNet | See modified Readme in git |  |
 
 
 ---
