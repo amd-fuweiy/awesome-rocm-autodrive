@@ -19,8 +19,8 @@ bash run_train.sh
 ````
 3. Train
 ````
-unset MIOPEN_FIND_MODE=1
-unset MIOPEN_FIND_ENFORCE=4
+unset MIOPEN_FIND_MODE
+unset MIOPEN_FIND_ENFORCE
 bash run_train.sh
 ````
 4. Train with NHWC layout (optional)
