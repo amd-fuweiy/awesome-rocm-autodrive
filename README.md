@@ -5,8 +5,8 @@ A curated and practical collection of training examples, tools, and ROCm optimiz
 
 | Model           | Type            | Repo Link                     | ROCm Support | Notes                              |
 |------------------|------------------|--------------------------|---------------|-------------------------------------|
-| ResNet-50        | Backbone         |  | ✅ Supported   |    |
-| EfficientNet-B7  | Backbone         |  | ✅ Supported   | Currently have performance issue with DWConv          |
+| ResNet-50        | Backbone         | https://github.com/amd-fuweiy/vision | ✅ Supported   |    |
+| EfficientNet-B7  | Backbone         | https://github.com/amd-fuweiy/vision | ✅ Supported   | Currently have performance issue with DWConv    |
 | PointPillars     | Point Cloud      |  | ✅ Supported   | Need ROCm mmcv to get better performance          |
 | MapTR            | Vector Prediction|  | ✅ Supported |  |
 | FlashOcc         | Scene Occupancy  |  | ✅ Supported |         |
