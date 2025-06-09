@@ -8,6 +8,7 @@ Example of backbone model training is based on [pytorch vision](https://github.c
 git clone https://github.com/amd-fuweiy/vision 
 ````
 then, revise the DATAPATH in run_train.sh to according to your data path.
+You can also revise MODEL to other [existing models](https://github.com/pytorch/vision/tree/v0.22.0-rc5/references/classification).
 
 2. MIOpen tuning (optional)
 MIOpen is an AMD library for accelerating convolution kernels. Through tuning, we can get better performance with limited extra efforts. For more details please refer to [MIOpen tuning guide](https://github.com/ROCm/MIOpen/blob/develop/docs/conceptual/tuningdb.rst).
@@ -36,3 +37,4 @@ model = torch.compile(model) # to get better performance
 ````
 
 In the example, we have enabled these features, you can directly run run_train.sh to use NHWC layout out-of-the-box.
+
