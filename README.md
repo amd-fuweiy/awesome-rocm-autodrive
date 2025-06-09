@@ -9,7 +9,7 @@ A curated and practical collection of training examples, tools, and ROCm optimiz
 | EfficientNet-B7  | Backbone         | https://github.com/amd-fuweiy/vision |    | Currently have performance issue with DWConv    |
 | PointPillars     | Point Cloud      |  |    | Need ROCm mmcv to get better performance          |
 | MapTR            | Vector Prediction|  |  |  |
-| FlashOcc         | Scene Occupancy  |  |  |         |
+| FlashOcc         | Scene Occupancy  | https://github.com/mingjielu/FlashOCC | [examples/occupancy/FlashOCC](examples/occupancy/FlashOCC) |         |
 | Sparse4D         | Sparse Detector  | https://github.com/binding7012/Sparse4D |[examples/detection/sparse4d](examples/detection/sparse4d) | |
 | BEVFormer        | Multi-view       |  |  |        |
 
