@@ -3,15 +3,15 @@ A curated and practical collection of training examples, tools, and ROCm optimiz
 
 ## 🔧 Supported Models (Initial Release)
 
-| Model           | Type            | Repo Link                     | ROCm Support | Notes                              |
+| Model           | Type            | Repo Link                     | README for ROCm | Notes                              |
 |------------------|------------------|--------------------------|---------------|-------------------------------------|
-| ResNet-50        | Backbone         | https://github.com/amd-fuweiy/vision | ✅ Supported   |    |
-| EfficientNet-B7  | Backbone         | https://github.com/amd-fuweiy/vision | ✅ Supported   | Currently have performance issue with DWConv    |
-| PointPillars     | Point Cloud      |  | ✅ Supported   | Need ROCm mmcv to get better performance          |
-| MapTR            | Vector Prediction|  | ✅ Supported |  |
-| FlashOcc         | Scene Occupancy  |  | ✅ Supported |         |
-| Sparse4D         | Sparse Detector  | https://github.com/binding7012/Sparse4D | ✅ Supported | |
-| BEVFormer        | Multi-view       |  | ✅ Supported  |        |
+| ResNet-50        | Backbone         | https://github.com/amd-fuweiy/vision | [example/backbone](https://github.com/amd-fuweiy/awesome-rocm-autodrive/blob/main/examples/backbone/readme.md)   |    |
+| EfficientNet-B7  | Backbone         | https://github.com/amd-fuweiy/vision |    | Currently have performance issue with DWConv    |
+| PointPillars     | Point Cloud      |  |    | Need ROCm mmcv to get better performance          |
+| MapTR            | Vector Prediction|  |  |  |
+| FlashOcc         | Scene Occupancy  |  |  |         |
+| Sparse4D         | Sparse Detector  | https://github.com/binding7012/Sparse4D | | |
+| BEVFormer        | Multi-view       |  |  |        |
 
 See full list in [registry/MODELS.md](registry/MODELS.md)
 
