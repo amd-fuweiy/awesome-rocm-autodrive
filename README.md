@@ -11,7 +11,7 @@ A curated and practical collection of training examples, tools, and ROCm optimiz
 | MapTR            | Vector Prediction| https://github.com/aaab8b/MapTR | See modified Readme in git |  |
 | FlashOcc         | Scene Occupancy  | https://github.com/mingjielu/FlashOCC | [examples/occupancy/FlashOCC](examples/occupancy/FlashOCC) |         |
 | Sparse4D         | Sparse Detector  | https://github.com/binding7012/Sparse4D |[examples/detection/sparse4d](examples/detection/sparse4d) | |
-| BEVFormer        | Multi-view       |  |  |        |
+| BEVFormer        | Multi-view       | https://github.com/jun-amd/BEVFormer | [examples/detection/BEVFormer](examples/detection/BEVFormer) |        |
 | PETR            | 3D Detection | https://github.com/aaab8b/PETR | See modified Readme in git |  |
 | QCNet            | Trajectory Prediction | https://github.com/aaab8b/QCNet | See modified Readme in git |  |
 
