@@ -15,6 +15,8 @@ A curated and practical collection of training examples, tools, and ROCm optimiz
 | PETR             | 3D Detection | https://github.com/aaab8b/PETR | See modified Readme in git |  |
 | QCNet            | Trajectory Prediction | https://github.com/aaab8b/QCNet | See modified Readme in git |  |
 | SurroundOcc      | Scene Occupancy  | https://github.com/mingjielu/SurroundOcc | [examples/occupancy/FlashOCC](examples/occupancy/SurroundOcc) |         |
+| UniAD            | Multi-model      | https://github.com/mingjielu/UniAD | [examples/Multi-model/UniAD](examples/Multi-model/UniAD) |         |
+
 
 
 ---
