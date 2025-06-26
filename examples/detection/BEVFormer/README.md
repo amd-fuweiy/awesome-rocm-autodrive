@@ -16,5 +16,5 @@ python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
 4. Insert `torch.multiprocessing.set_start_method('fork')` before the `main()` call at **line 271** of `tools/train.py` to fix **TypeError: cannot pickle 'dict_keys' object**. 
 5. Run the scripts:
 ````
-./tools/dist_train.sh ./projects/configs/bevformer/bevformer_base.py 8
+./tools/dist_train.sh ./projects/configs/bevformer/bevformer_tiny.py 8
 ````
