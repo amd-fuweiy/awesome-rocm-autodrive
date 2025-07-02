@@ -4,6 +4,7 @@ To enable training in AMD ROCm platform, small modifications are needed:
 1. Prepare data
 2. Compile the deformable_aggregation CUDA op:
 ````
+cd projects/mmdet3d_plugin/ops
 python3 setup.py develop
 ````
 3. update motmetrics
